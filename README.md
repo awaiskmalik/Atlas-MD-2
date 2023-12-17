@@ -207,3 +207,8 @@
 </h2>
 
 
+
+[![Nasrullah](https://github.com/Nasrullahmalik.png)](https://github.com/Nasrullahmalik)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+----|----|----|----|----|----
+[Nasrullah Khan](https://github.com/Nasrullahmalik)  | [Awais Malik](https://github.com/awaiskmalik) | [Muhammad Usman](https://wa.me/923404699880) | [](https://github.com/Devime69) | [](https://github.com/Kai0071) | [](https://github.com/jayjay-ops)
+Owner, Main Developer, Maintainer, Dubugger, Support Developer | Owner, Co-Developer, Co-Maintainer, Support Developer
