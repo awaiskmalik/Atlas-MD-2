@@ -7,27 +7,21 @@
 </h1>
 
 <p align="center"> 
-<b>, Hi, This Is "MR-MALIK-MD" an Opensource WhatsApp bot made by <a href="https://github.com/MalikExperts">Malik Experts </a> Team to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+<b>Hi, This Is "MR-MALIK-MD" an Opensource WhatsApp bot made by <a href="https://github.com/MalikExperts">Malik Experts </a> Team to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 <br>
 
 <p align="center">
   <a href="https://github.com/MalikExperts/MR-MALIK-MD/fork">
-    <img src="https://img.shields.io/github/forks/MalikExperts/MR-MALIK-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/MalikExperts/MR-MALIK-MD?label=Forks&style=social">
     
     
   <a href="https://github.com/MalikExperts/MR-MALIK-MD/stargazers">
     <img src="https://img.shields.io/github/stars/MalikExperts/MR-MALIK-MD?style=social">
   </a>
-
-<br>
-
-<a href="https://github.com/MalikExperts/MR-MALIK-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/MalikExperts/MR-MALIK-MD.visitor-badge&left_text=Total%20People%20Visited">
-  </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/MalikExperts"><img title="Author" src="https://img.shields.io/badge/Author-Team Atlas-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MalikExperts"><img title="Owner" src="https://img.shields.io/badge/Owner-Malik Experts-orange.svg?style=for-the-badge&logo=github"></a>
 
  <a href="https://github.com/MalikExperts/MR-MALIK-MD/blob/main/LICENSE.md">
   
@@ -203,12 +197,12 @@
 <br>
 
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet Our Team 🔰
 </h2>
 
 
 
-[![Nasrullah](https://github.com/Nasrullahmalik.png)](https://github.com/Nasrullahmalik)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
-----|----|----|----|----|----
-[Nasrullah Khan](https://github.com/Nasrullahmalik)  | [Awais Malik](https://github.com/awaiskmalik) | [Muhammad Usman](https://wa.me/923404699880) | [](https://github.com/Devime69) | [](https://github.com/Kai0071) | [](https://github.com/jayjay-ops)
+[![Nasrullah](https://github.com/Nasrullahmalik.png)](https://github.com/Nasrullahmalik)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) |
+|----|----|
+[Nasrullah Khan](https://github.com/Nasrullahmalik)  | [Awais Malik](https://github.com/awaiskmalik) | 
 Owner, Main Developer, Maintainer, Dubugger, Support Developer | Owner, Co-Developer, Co-Maintainer, Support Developer
