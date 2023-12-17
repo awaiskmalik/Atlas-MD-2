@@ -35,7 +35,26 @@
 
 ---
  <br>
- 
+
+<h4 align="center"> Deploy on 
+ Heroku ( YouTube Tutorial Included )
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/MalikExperts/MR-MALIK-MD">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
+    </br>
+    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+</p> 
+        <p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+    </br>
 <h4 align="center"> Deploy on Replit - ( YouTube Tutorial Included & Highly Recommended )
 </h4>
 
@@ -88,28 +107,12 @@
     </a>
 </p>
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
 
 
 <br>
-<h4 align="center"> Deploy on Heroku ( YouTube Tutorial Included )
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/MalikExperts/MR-MALIK-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-    </br>
-    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-</p> 
 
 
+---
 
 
 <br>
